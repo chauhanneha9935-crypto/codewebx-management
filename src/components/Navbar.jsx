@@ -20,12 +20,10 @@ export default function Navbar() {
         <a href="#portal" className="px-4 py-1.5 text-xs font-bold text-gray-300 hover:text-white uppercase tracking-wider transition-colors">
           PORTAL
         </a>
-        <a href="#services" className="px-4 py-1.5 text-xs font-bold text-gray-300 hover:text-white uppercase tracking-wider transition-colors">
-          SERVICES
-        </a>
         <a href="#verification" className="px-4 py-1.5 text-xs font-bold text-gray-300 hover:text-white uppercase tracking-wider transition-colors">
           VERIFICATION
         </a>
+        
       </div>
 
       {/* Right Side Buttons */}
